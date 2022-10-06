@@ -1,0 +1,9 @@
+{
+  "name": "LaraVisual",
+  "version": "1.0.0",
+  "description": "Visual Laravel Components editor",
+  "main": "index.js",
+  "repository": "https://github.com/cosmoarunn/LaraVisual.git",
+  "author": "ARUN PANNEERSELVAM <me@arunpanneerselvam.com>",
+  "license": "MIT"
+}
