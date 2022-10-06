@@ -4,19 +4,19 @@
 
 ## About LaraVisual
 
-Laravel is a frontend application framework with configurable Laravel packages and third party packages. Aimed at easy deployment of laravel packages for development and testing this will facilitate required tools for even beginners and intermediate Laravel developers.
+LaraVisual is a frontend application framework with configurable Laravel packages and third party packages. Aimed at easy deployment of laravel packages for development and testing this will facilitate required tools for even beginners and intermediate Laravel developers.
 
 - MANY MORE FEATURES YET TO BE RELEASED!
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+LaraVisual is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Customising LaraVisual
 
-Laravel has the most extensive and thorough [documentation](https://laravisual.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+LaraVisual has the most extensive and thorough [documentation](https://laravisual.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravisual.com), where you will be guided through building a modern Laravel application from scratch.
+You may also try the [LaraVisual Bootcamp](https://bootcamp.laravisual.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+If you don't feel like reading, [LaraVisual webcasts](https://webcasts.laravisual.com) can help. LaraVisual webcasts contains many audio and video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Laravel Sponsors
 
